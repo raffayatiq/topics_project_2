@@ -1,0 +1,4 @@
+trace_set_1.txt
+trace_set_2.txt
+trace_set_3.txt
+trace_set_4.txt
