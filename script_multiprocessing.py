@@ -58,6 +58,7 @@ def simulate_trace(trace, result_dict, i):
 			result_dict[trace] = result
 	except Exception as e:
 		print(e)
+		print(e)
 
 step_size = int(sys.argv[1])
 main(step_size)

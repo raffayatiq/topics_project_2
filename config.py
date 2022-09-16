@@ -14,12 +14,12 @@
 import math
 
 ### Player settings
-MAX_BUFFLEN = 2
+MAX_BUFFLEN = 20
 
 ### Select ABR to simulate
-MPC_ABR = True
+MPC_ABR = False
 HYB_ABR = False
-BOLA_ABR = False
+BOLA_ABR = True
 
 ### Video settings
 TOTAL_CHUNKS = 49

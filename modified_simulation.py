@@ -16,6 +16,7 @@ from vplayer_state import State
 import config
 import warnings
 warnings.filterwarnings('error')
+import pdb
 
 def usage():
   print >> sys.stderr, "Incorrect usage\nUsage: python " + sys.argv[0] + " <path to trace file>"
